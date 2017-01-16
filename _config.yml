@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: http://thalesh.github.io
+url: https://thalesh.github.io
 date_format: "ordinal"
 title: Curosity
 author: Thales
