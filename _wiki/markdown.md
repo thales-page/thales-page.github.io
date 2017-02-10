@@ -18,17 +18,7 @@ keywords: Markdown
 * [锚点](#锚点)
 * [Emoji](#emoji)
 
-### 超链接
 
-```
-[码志](http://mazhuang.org)
-
-<http://mazhuang.org>
-```
-
-[码志](http://mazhuang.org)  
-
-<http://mazhuang.org>
 
 ### 列表
 
