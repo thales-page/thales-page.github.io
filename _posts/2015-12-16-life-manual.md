@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La Vie mode d'emploi
-categories: art
-description: art
+categories: Art
+description: Art
 keywords: george perec, art, literature
 ---
