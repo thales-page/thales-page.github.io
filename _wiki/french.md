@@ -1,0 +1,23 @@
+---
+layout: wiki
+title: Learning French
+categories: french
+description: french, language
+keywords: french
+---
+### Contents
+
+*[Starting out](#starting out)
+*[Asking the way](#asking the way)
+*[Numbers, times, and dates](#numbers, times, and dates)
+*[Accommodation](#accomodation)
+*[Personal Information](#personal information)
+*[Shopping](#shoping)
+*[Eating out](#eating out)
+*[Getting around](#getting around)
+*[Health and fitness](#health and fitness)
+*[Free time](#free time)
+*[At home](#at home)
+*[Making plans](#making plans)
+*[All in the past](#all in the past)
+*[The world of work](#the world of work)
