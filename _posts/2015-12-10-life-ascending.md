@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life Ascending
-categories: Evolution
+categories: evolution
 description: life
 keywords: life, evolution
 ---
