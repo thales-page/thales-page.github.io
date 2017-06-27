@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Rule of Law
-categories: Laws
-description: Laws
+categories: laws
+description: laws
 keywords: laws
 ---
 
