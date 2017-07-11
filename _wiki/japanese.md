@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: Learning Japanese
-categories: japanese
+categories: language
 description: japan, japanese
 keywords: japan
 ---

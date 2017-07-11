@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: Learning French
-categories: french
+categories: language
 description: french, language
 keywords: french
 ---
