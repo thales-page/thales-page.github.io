@@ -15,9 +15,9 @@ email:
 # ---------------- #
 #      Jekyll      #
 # ---------------- #
-markdown: kramdown
-kramdown:
-    input: GFM
+markdown:redcarpet 
+highlighter: pygments
+
 paginate: 9
 permalink: /:year/:month/:day/:title/
 gems:
@@ -25,6 +25,11 @@ gems:
     - jekyll-sitemap
     - jekyll-feed
     - jemoji
+    - jekyll/scholar
+
+redcarpet: 
+    extentions:["no_intra_emphasis","fenced_code_blocks","autolink","tables","strikethrough","with_toc_data"]
+
 collections:
     wiki:
         output: true
