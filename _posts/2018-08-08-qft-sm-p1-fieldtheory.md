@@ -10,7 +10,7 @@ description: physics, qft, sm
 1. **Blackbody** 
 
 \\[
-\rangle E_n\langle = \frac{\sum_(j=0)^\infty(jE_n)e^{-jE_n\beta}}{\sum_je^{-jE_n\beta}} = \frac{\hbar\omega_n}{e^{\hbar\omega_n\beta}-1}
+\langle E_n\rangle = \frac{\sum_{j=0}^\infty(jE_n)e^{-jE_n\beta}}{\sum_je^{-jE_n\beta}} = \frac{\hbar\omega_n}{e^{\hbar\omega_n\beta}-1}
 \\]
 
 
