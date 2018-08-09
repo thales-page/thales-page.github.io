@@ -5,18 +5,18 @@ categories: physics
 description: physics, model
 ---
 
-#### RM and WBRM
+#### rmt and wbrm
 
 
-#### LMG
+#### lmg
 
 
-#### DICKE
+#### dicke
 
 
-#### Jaynes-Cumming model
+#### jaynes-cumming 
 
 
 
-#### Kick rotator and Kick top
+#### kick rotator and kick top
 
