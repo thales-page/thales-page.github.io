@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Chaotic Models -- wbrm,lmg,dicke,jaynes-cumming,kick
+title : Chaotic Models -- rm/wbrm,lmg,dicke,jaynes-cumming,rotator/top
 categories: physics
 description: physics, model
 ---
