@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QFT&SM -- Field Theory
+title: QFT&SM --Field Theory
 categories: physics
 description: physics, qft, sm
 ---
