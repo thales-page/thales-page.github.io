@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One dimensional hubbard model
+title: 1D Hubbard / 1D Physics
 categories: physics
 description: physics, hubbard, models
 ---
