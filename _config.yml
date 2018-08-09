@@ -31,6 +31,31 @@ gems:
 redcarpet: 
     extentions:["no_intra_emphasis","fenced_code_blocks","autolink","tables","strikethrough","with_toc_data"]
 
+scholar:
+  style: assets/bibliography/thales.csl
+  locale: en
+ 
+  sort_by: year, month
+  order: descending
+ 
+  source: assets/bibliography
+  bibliography: thales.bib
+  repository: assets/bibliography
+
+#  bibtex_filters: [ ]
+ 
+  replace_strings: true
+  join_strings: true
+
+#  details_dir: bibliography
+#  details_layout: bib_details.html
+#  details_link: Details
+
+  bibliography_template: bib
+ 
+  query: "@*"
+
+
 collections:
     wiki:
         output: true
