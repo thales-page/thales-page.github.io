@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Models -- WBRM,LMG,DICKE,JC,KICK
+title : Models -- wbrm,lmg,dicke,jaynes-cumming,kick
 categories: physics
 description: physics, model
 ---
