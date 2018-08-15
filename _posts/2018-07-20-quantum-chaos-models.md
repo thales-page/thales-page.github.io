@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Chaotic Models --rm/wbrm,lmg,dicke,jaynes-cumming,kick
+title : Chaotic Models --rm/wbrm, lmg, dicke, jc, floquet
 categories: physics
 description: physics, model
 ---
