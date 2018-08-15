@@ -1,5 +1,5 @@
 ---
 layout: wiki 
-title: The Great Fluenza, Captain of Death
+title: The Great Influenza, Captain of Death
 description: biology
 ---
