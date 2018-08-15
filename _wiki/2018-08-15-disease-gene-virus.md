@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Great Fluenza" and ”Captain of Death"
+layout: wiki 
+title: Great Fluenza and Captain of Death
 categories: medicine, biology
-descripition: biology
+description: biology
 ---
