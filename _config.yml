@@ -59,7 +59,7 @@ scholar:
 collections:
     wiki:
         output: true
-        permalink: /wiki/:path/
+        permalink: /wiki/:title/
 
 # ---------------- #
 #      Comments    #
