@@ -57,9 +57,9 @@ scholar:
 
 
 collections:
-    wiki:
+    sapere:
         output: true
-        permalink: /wiki/:title/
+        permalink: /sapere/:title/
 
 # ---------------- #
 #      Comments    #
