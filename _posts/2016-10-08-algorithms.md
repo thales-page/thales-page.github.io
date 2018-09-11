@@ -1,6 +1,6 @@
 ---
 layout: post
-title: algorithms
+title: Algorithms I
 categories: cs 
 description: cs, algorithms
 ---
