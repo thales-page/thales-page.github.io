@@ -2,7 +2,7 @@
 body {
   font-family: "CMU Concrete", "lucida sans unicode",times, serif,  lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   background-color: white;
-  font-size: 120%;
+  font-size: 150%;
 }
 
 div.main {
@@ -97,15 +97,15 @@ div.nav a:hover {
 }
 
 div.nav {
-  border-top: 1.5px solid #d4d4d4;
+  border-top: 1px solid #d4d4d4;
   border-left: 1px solid #d4d4d4;
   border-right: 1px solid #d4d4d4;
   margin: auto;
   padding: 0 5% 0 5%;
   width: 800px;
-  height: 2.5em;
+  height: 2.0em;
   line-height: 150%;
-  font-size: 2.2em;
+  font-size: 1.8em;
 }
 
 div.nav_rss {
