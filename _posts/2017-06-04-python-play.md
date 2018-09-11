@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Play with Python
-categories: Python
+categories: python
 description: Just Python 
 keywords: Python, automate
 ---
