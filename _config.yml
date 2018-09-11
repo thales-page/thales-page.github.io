@@ -59,6 +59,7 @@ scholar:
 collections:
     wiki:
         output: true
+        order: descending
         permalink: /wiki/:title/
 
 # ---------------- #
