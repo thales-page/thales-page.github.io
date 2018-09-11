@@ -7,7 +7,7 @@ permalink: /wiki/
 ---
 
 <div class="wikilist">
-    {% for wiki in site.wiki %}
+    {% for wiki in site.wiki reversed%}
     <div class="overview">
         <div class="date">{{ wiki.date | date: "%b %d, %Y" }}</div>
         <div class="detail"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></div>
