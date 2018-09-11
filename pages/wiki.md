@@ -14,7 +14,7 @@ permalink: /wiki/
     </div>
     {% endfor %}
 </div>
-{% include pagination.html %}
+<!--{% include pagination.html %}>
 
 
 <!-- <ul>
