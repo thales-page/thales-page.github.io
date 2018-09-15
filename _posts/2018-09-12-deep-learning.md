@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep Learning with Python
-categories: cs, math
+categories: cs
 description: cs
 ---
 
