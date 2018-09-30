@@ -1,4 +1,4 @@
 ---
 layout: wiki
-title: Smoking ears and screaming teech, Quackery, Bill Bryson, Mary Roach
+title: Trevor Norton, Quackery, Bill Bryson, Mary Roach
 ---
