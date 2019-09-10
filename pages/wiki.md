@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sapere
+title: Wiki 
 description: Book Notes
 keywords: Wiki
 permalink: /wiki/
