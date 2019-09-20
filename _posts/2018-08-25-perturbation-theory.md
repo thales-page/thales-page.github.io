@@ -8,19 +8,25 @@ categories: qm_further
 The Rayleigh-Schrödinger pertubation theory gives an explicit power series in $\lambda$ for the characteristic values $F_n$ and the charateristic function $\phi_n$ of a Hermitian operator $H+\lambda V$
 
 $$
+\begin{equation}
 (H+\lambda V)\phi_n = F_n\phi_n
+\end{equation}
 $$
 
 if the corresponding quantities $E_n$ and $\psi_n$ for the unperturbed operator $H$ are known
 
 $$
+\begin{equation}
 H\psi_n = E_n\psi_n
+\end{equation}
 $$
 
 If the so-called matrix elements of $V$ are denoted, as usual, by
 
 $$
+\begin{equation}
 V_{nm} = (\psi_n,V\psi_m) = V_{mn}^*
+\end{equation}
 $$
 
 the first terms in the aforementioned series read
