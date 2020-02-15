@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wiki
 title: Brillouin-Wigner Methods
 categories: qm_further
 ---
