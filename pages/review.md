@@ -6,11 +6,11 @@ keywords: review
 permalink: /review/
 ---
 
-<div class="wikilist">
-    {% for wiki in site.wiki reversed%}
+<div class="reviewlist">
+    {% for review in site.review reversed%}
     <div class="overview">
-        <div class="date">{{ wiki.date | date: "%b %d, %Y" }}</div>
-        <div class="detail"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></div>
+        <div class="date">{{ review.date | date: "%b %d, %Y" }}</div>
+        <div class="detail"><a href="{{ site.url }}{{ review.url }}">{{ review.title }}</a></div>
     </div>
     {% endfor %}
 </div>
@@ -18,9 +18,9 @@ permalink: /review/
 
 
 <!-- <ul>
-{% for wiki in site.wiki %}
-{% if wiki.title != "Wiki Template" %}
-<li><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
+{% for review in site.review %}
+{% if review.title != "Review Template" %}
+<li><a href="{{ site.url }}{{ review.url }}">{{ review.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul> -->
