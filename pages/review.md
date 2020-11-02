@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Wiki 
+title:  Book Reviews
 description: Book Notes
-keywords: Wiki
-permalink: /wiki/
+keywords: review
+permalink: /review/
 ---
 
 <div class="wikilist">
