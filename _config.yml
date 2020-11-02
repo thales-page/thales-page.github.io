@@ -59,10 +59,10 @@ scholar:
 
 
 collections:
-    wiki:
+    review:
         output: true
         order: descending
-        permalink: /wiki/:title/
+        permalink: /review/:title/
 
 # ---------------- #
 #      Comments    #
