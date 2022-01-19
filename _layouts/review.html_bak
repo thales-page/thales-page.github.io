@@ -1,0 +1,13 @@
+{% include header.html %}
+<div class="container">
+    {% include navigation.html %}
+    <div class="main">
+        <h2> {{ page.title }} </h2>
+        {{ content }}
+        <div class="post_footer">
+            <p>Published on {{ page.date | date: "%b %d, %Y" }}
+            </p>
+        </div>
+    </div>
+</div>
+{% include footer.html %}
