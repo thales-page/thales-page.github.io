@@ -6,7 +6,7 @@
         {{ content }}
         {% if page.categories %}
         <div class="post_footer">
-          <p>Published on {{ page.date | date: "%b %d, %Y" }} in categories 
+          <p>Published on {{ page.date | date: "%b %d, %Y" }}  
           {% for cat in page.categories %}
           <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
           {% endfor %}
