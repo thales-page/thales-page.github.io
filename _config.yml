@@ -24,7 +24,7 @@ future: true
 timezone: UTC+8
 
 gems:
-    - jekyll-paginate
+    - jekyll-paginate-v2
     - jekyll-sitemap
     - jekyll-feed
     - jemoji
