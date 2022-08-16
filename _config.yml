@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://thales.github.io
+url: https://chaosdyn.github.io
 date_format: "ordinal"
 title: Curiosity
 author: Thales
