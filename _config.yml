@@ -4,7 +4,7 @@
 baseurl: 
 url: https://hynotes.github.io
 date_format: "ordinal"
-title: Curiosity
+title: Exploring
 author: Thales
 
 # ---------------- #
@@ -58,11 +58,11 @@ scholar:
   query: "@*"
 
 
-collections:
-    review:
-        output: true
-        order: descending
-        permalink: /review/:title/
+#collections:
+#    review:
+#        output: true
+#        order: descending
+#        permalink: /review/:title/
 
 # ---------------- #
 #      Comments    #
