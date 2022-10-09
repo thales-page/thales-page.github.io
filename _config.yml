@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://hynotes.github.io
+url: https://thales-page.github.io
 date_format: "ordinal"
 title: Exploring
 author: Thales
