@@ -58,11 +58,11 @@ scholar:
   query: "@*"
 
 
-#collections:
-#    review:
-#        output: true
-#        order: descending
-#        permalink: /review/:title/
+collections:
+    review:
+        output: true
+        order: descending
+        permalink: /review/:title/
 
 # ---------------- #
 #      Comments    #
